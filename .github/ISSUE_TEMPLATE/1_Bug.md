@@ -1,6 +1,6 @@
 ---
 name: 🐛 Bug Report
-about: File a bug report, if you've discovered a problem in Umbraco Forms.
+about: File a bug report, if you've discovered a problem in Umbraco Workflow.
 ---
 
 A brief description of the issue goes here.
